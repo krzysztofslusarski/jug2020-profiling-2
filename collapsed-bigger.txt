@@ -1,0 +1,7 @@
+http-nio-8080-exec-1;java/lang/Thread.run;org/spring/Magic.do;org/britenet/Filter.do;org/britenet/Controller.do;org/britenet/SomeService.do 5
+http-nio-8080-exec-1;java/lang/Thread.run;org/spring/Magic.do;org/britenet/Filter.do;org/britenet/Controller.do;org/britenet/SomeService.do;org/britenet/WebServiceInvoker.invoke 2
+http-nio-8080-exec-2;java/lang/Thread.run;org/spring/Magic.do;org/britenet/Filter.do;org/britenet/Controller.do;org/britenet/SomeService.do;org/britenet/WebServiceInvoker.invoke 3
+http-nio-8080-exec-1;java/lang/Thread.run;org/spring/Magic.do;org/britenet/Filter.do;org/britenet/Controller.do;org/britenet/OtherService.do 2
+http-nio-8080-exec-2;java/lang/Thread.run;org/spring/Magic.do;org/britenet/Controller.do;org/britenet/SomeService.do;org/britenet/RestServiceInvoker.invoke 5
+http-nio-8080-exec-1;java/lang/Thread.run;org/spring/Magic.do 2
+http-nio-8080-exec-2;java/lang/Thread.run;org/spring/Magic.doScheduled 3
